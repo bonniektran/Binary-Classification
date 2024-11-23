@@ -19,4 +19,4 @@ Bird Strikes in Aviation - ML Compilation
   - Recurrent Neural Networks
     - LSTM and GRU
   - Convolutional Neural Networks
-- Achieved a 98% for both random forest and KNN models, and a 90-91% testing accuracy for both ANN and LSTM models.
+- Achieved a 98% testing accuracy for both random forest and KNN, and a 90-91% for both ANN and LSTM models.
